@@ -11,7 +11,7 @@ func main() {
 
 	} else {
 
-		fmt.Printf("Hello, P. Roch!\nThis is your first go program.\n")
+		fmt.Printf("Hello, P. Roch!\nThis is a test.\n")
 
 	}
 
